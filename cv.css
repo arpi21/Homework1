@@ -1,0 +1,18 @@
+body {
+
+    background-color: cadetblue;
+}
+img {
+    width: 200px;
+    float: left;
+    margin-right: 2px;
+}
+
+div {
+    background-color: cornflowerblue;
+    margin: 2px;
+}
+
+
+h1{ margin-right: 170px;
+    }
